@@ -1,0 +1,36 @@
+body{
+  background:url(../images/bg_Argyle.jpg);
+}
+
+.center {
+  text-align:center;
+}
+
+div {
+  text-align: center;
+}
+
+.tag{
+  text-align: center;
+}
+.tag1{
+  display: inline-block;
+  border: double 10px #ff0000;
+}
+
+.word1{
+  color: #ff0000;
+}
+
+.table1{
+  border-color: #ff0000;
+  background-color: rgb(243, 225, 203);
+}
+
+.tyoko{
+  display: flex;
+  /* justify-content: flex-start; */
+}
+
+
+
